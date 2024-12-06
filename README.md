@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @helloworld-dpu
+- 👋 Hi, I’m Saurav
 - 👀 I’m interested in ... electronics and communication
 - 🌱 I’m currently learning ...ECE
 - 💞️ I’m looking to collaborate on ...ECE
